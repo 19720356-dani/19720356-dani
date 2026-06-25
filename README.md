@@ -1,11 +1,13 @@
 <div align="center">
 
-# ¡Hola, soy Daniela Esmeralda Mejía Belloso! 
+# ¡Hola, soy Daniela Esmeralda Mejía Belloso! 👩‍💻
 
-**Estudiante de Desarrollo de Software · El Salvador **
+**Estudiante de Desarrollo de Software · El Salvador 🇸🇻**
 *Construyendo soluciones lógicas y funcionales en Linux.*
 
 [![Linux](https://img.shields.io/badge/Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white)](https://ubuntu.com/)
+[![WebDev](https://img.shields.io/badge/WebDev-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/)
+[![El Salvador](https://img.shields.io/badge/El_Salvador-FF69B4?style=for-the-badge&logo=es-salvador)](https://es.wikipedia.org/wiki/El_Salvador)
 
 </div>
 
