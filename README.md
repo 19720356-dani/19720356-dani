@@ -8,7 +8,6 @@
 [![Linux](https://img.shields.io/badge/Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white)](https://ubuntu.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![El Salvador](https://img.shields.io/badge/El_Salvador-FF69B4?style=for-the-badge&logo=es-salvador)](https://es.wikipedia.org/wiki/El_Salvador)
 
 </div>
 
