@@ -3,6 +3,7 @@
 # ¡Hola, soy Daniela Esmeralda Mejía Belloso! 👩‍💻
 
 **Estudiante de Desarrollo de Software · El Salvador 🇸🇻**
+
 *Construyendo soluciones lógicas y funcionales en Linux.*
 
 [![Linux](https://img.shields.io/badge/Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white)](https://ubuntu.com/)
